@@ -1,0 +1,24 @@
+{
+  "name": "TAUtology",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chlodnywiatr/TAUtology.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chlodnywiatr/TAUtology/issues"
+  },
+  "homepage": "https://github.com/chlodnywiatr/TAUtology#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20"
+  }
+}
